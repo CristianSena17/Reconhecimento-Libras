@@ -1,0 +1,1 @@
+from model.gesture_sign_classifier.gesture_sign_classifier import ClassificarGestos
